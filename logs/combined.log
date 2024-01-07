@@ -1,0 +1,203 @@
+2023-09-21T03:55:38.005Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T03:55:38.045Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T03:55:38.899Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T03:55:43.065Z [ENFTIS] [ERROR]: Connection error!
+2023-09-21T03:56:41.871Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T03:56:41.917Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T03:56:42.358Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T03:56:42.404Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:29:21.646Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:29:21.677Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:29:22.426Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:29:22.663Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:29:30.465Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:29:30.525Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:29:31.169Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:29:31.270Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:29:53.234Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:29:53.278Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:29:53.705Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:29:53.731Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:29:59.697Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:29:59.770Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:00.392Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:00.451Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:30:05.606Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:30:05.634Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:05.848Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:05.883Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:30:20.506Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:30:20.548Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:21.226Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:21.254Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:30:30.800Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:30:30.872Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:31.285Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:31.312Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:30:39.792Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:30:39.859Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:40.097Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:40.196Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:30:50.184Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:30:50.218Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:30:51.156Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:30:51.211Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:32:48.290Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:32:52.482Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:32:52.532Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:32:53.021Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:32:53.046Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:32:57.587Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:32:57.670Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:32:57.977Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:32:58.003Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:35:12.713Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:35:12.768Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:35:13.346Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:35:13.422Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:35:26.712Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:35:26.750Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:35:27.246Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:35:27.285Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:35:46.645Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:35:46.686Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:35:47.358Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:35:47.387Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:36:09.653Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:36:09.695Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:36:10.049Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:36:10.075Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:08.474Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:08.506Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:08.676Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:08.725Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:15.544Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:15.571Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:15.834Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:15.878Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:24.533Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:24.640Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:25.405Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:25.434Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:28.811Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:28.873Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:29.705Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:29.751Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:36.284Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:36.325Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:37.206Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:37.234Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:41.294Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:41.341Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:41.731Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:41.778Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:37:45.975Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:37:46.017Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:37:46.516Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:37:46.558Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:38:10.242Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:38:10.279Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:38:10.708Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:38:10.740Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:38:26.367Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:38:26.395Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:38:27.119Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:38:27.144Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T04:42:03.771Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T04:42:03.808Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T04:42:04.689Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T04:42:04.721Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:08:07.654Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:08:07.714Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:08:08.287Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:08:08.356Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:08:14.575Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:08:14.606Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:08:14.825Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:08:14.863Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:08:45.267Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:08:45.301Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:08:45.553Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:08:45.578Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:09:57.779Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:09:57.827Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:09:58.115Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:09:58.168Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:10:07.936Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:10:07.966Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:10:08.356Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:10:08.390Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:10:14.183Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:10:14.223Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:10:14.610Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:10:14.638Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:10:35.818Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:10:35.854Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:10:36.417Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:10:36.440Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:10:52.080Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:10:52.185Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:10:52.831Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:10:52.921Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:11:00.970Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:11:01.015Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:11:01.680Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:11:01.716Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:11:41.440Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:11:41.478Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:11:41.919Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:11:41.968Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:11:45.503Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:11:45.545Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:11:45.777Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:11:45.813Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:14:15.419Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:14:15.474Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:14:15.810Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:14:15.846Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:14:24.492Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:14:24.521Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:14:24.796Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:14:24.819Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:16:42.846Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:16:42.889Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:16:43.287Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:16:43.314Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:18:49.749Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:18:49.784Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:18:50.272Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:18:50.299Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:19:13.531Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:19:13.567Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:19:13.749Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:19:13.781Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:20:52.512Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:20:52.567Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:20:53.107Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:20:53.161Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:20:58.009Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:20:58.046Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:20:58.212Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:20:58.238Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:21:11.091Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:21:11.129Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:21:11.527Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:21:11.554Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:21:39.668Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:21:39.703Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:21:40.135Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:21:40.182Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:21:45.126Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:21:45.181Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:21:45.695Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:21:45.722Z [ENFTIS] [INFO]: Connection opened!
+2023-09-21T05:22:16.012Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-09-21T05:22:16.048Z [ENFTIS] [INFO]: Database ready!
+2023-09-21T05:22:16.264Z [ENFTIS] [INFO]: Server started. Listening on port 8600
+2023-09-21T05:22:16.298Z [ENFTIS] [INFO]: Connection opened!
+2023-10-16T11:09:26.292Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-10-16T11:11:56.025Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-10-16T11:20:17.827Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-10-16T11:20:20.332Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-10-16T11:20:21.929Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
+2023-10-16T11:33:28.109Z [ENFTIS] [INFO]: Initialising Mongoose ...mongodb://127.0.0.1/dovellous
