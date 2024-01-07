@@ -1,4 +1,4 @@
-# ENFTIS FRONTEND
+# ENFTIS BACKEND
 
 ENFTIS is an NFT marketplace that connects the worlds of collectibles, art and gaming. ENFTIS allows you to buy, sell, and create energy non-fungible tokens (eNFTs), which are digital representations of various assets. eNFTs are not only unique and collectible, but also functional and valuable. 
 
